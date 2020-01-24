@@ -1,6 +1,6 @@
 # Robot arm - MeArm v1.0
 
-Since the flawed version v0.4 is still sold at [lazada.vn](https://www.lazada.vn/products/4-dof-acrylic-chua-lap-rap-diy-canh-tay-robot-diy-bo-cho-arduino-may-lam-ho-tro-hoc-tap-sg90-servo-i267650656-s391094259.html) and aliexpress.com we look forward to create the much improved v1.0 from [MeArm](https://mearm.com) or [Mime Industries](https://mime.co.uk).
+Since the flawed version v0.4 is still sold at [lazada.vn](https://www.lazada.vn/products/4-dof-acrylic-chua-lap-rap-diy-canh-tay-robot-diy-bo-cho-arduino-may-lam-ho-tro-hoc-tap-sg90-servo-i267650656-s391094259.html) and [aliexpress.com](https://www.aliexpress.com/item/33058691240.html) we look forward to create the much improved v1.0 from [MeArm](https://mearm.com) or [Mime Industries](https://mime.co.uk).
 
 ![MeArm v1.0](mearm1.jpg)
 
@@ -45,6 +45,6 @@ In [new version v3.0](https://learn.mime.co.uk/docs/building-the-mearm-v3/) from
 
 To assemble you can follow [the instructions in the pdf](http://learn.mearm.com/assets/mearm.pdf) or watch the following video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sPdbs9b5udQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![![MeArm 3.0](mearm3video.jpg)](https://www.youtube.com/embed/sPdbs9b5udQ)
 
 The lasercut files can be found . But it needs M2.5 screws.
