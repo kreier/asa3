@@ -1,6 +1,7 @@
 # Robot arm - MeArm v1.0
 
-Since the flawed version v0.4 from April 2014 is still sold at [lazada.vn](https://www.lazada.vn/products/4-dof-acrylic-chua-lap-rap-diy-canh-tay-robot-diy-bo-cho-arduino-may-lam-ho-tro-hoc-tap-sg90-servo-i267650656-s391094259.html) and [aliexpress.com](https://www.aliexpress.com/item/33058691240.html) we look forward to create the much improved v1.0 from [MeArm](https://mearm.com) (or phenoptix alias Ben Gray from Nottingham) or [Mime Industries](https://mime.co.uk). It was published  September 2015.
+Since the flawed version v0.4 from April 2014 is still sold at [lazada.vn](https://www.lazada.vn/products/4-dof-acrylic-chua-lap-rap-diy-canh-tay-robot-diy-bo-cho-arduino-may-lam-ho-tro-hoc-tap-sg90-servo-i267650656-s391094259.html) and [aliexpress.com](https://www.aliexpress.com/item/33058691240.html) we look forward to create the much improved v1.0 from [MeArm](https://mearm.com) (or phenoptix alias Ben Gray from Nottingham) or [Mime Industries](https://mime.co.uk). It was published  September 2015. Thanks to a successful [Kickstarter campain](
+https://www.kickstarter.com/projects/phenoptix/mearm-pocket-sized-industrial-robotics-for-everybo) from 2014.
 
 ![MeArm v1.0](mearm1.jpg)
 
