@@ -20,11 +20,24 @@ The files can be found at:
 
 ## Additional materials
 
+### v1.0
 You will need some screws and nuts M3 as well. Specifically:
 
-- Nut x 10
+- 10x - M3 Nut
+- 6x - M3 x 6mm
+- 15x - M3 x 8mm
+- 3x - M3 x 10mm
+- 8x -  M3 x 12mm
+- 4x -  M3 x 20mm
+
+### Old materials for v0.4
+- M3 Nut x 10
 - 6mm x 9
 - 8mm x 12
 - 10mm x 3
 - 12mm x 7
 - 20mm x 4
+
+### v3.0
+
+The lasercut files can be found . But it needs M2.5 screws.
