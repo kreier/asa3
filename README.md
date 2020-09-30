@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# asa3
+Explorer robot with 4DOF arm, running MicroPython, created at AISVN.
 
-You can use the [editor on GitHub](https://github.com/kreier/asa3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Due to COVID-19 this session never started. This repository was created in December 2019 as preparation for the upcoming season. It's here for documentation purposes. Below a few steps of planning:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pictures from our T400 build at ASA session 3
 
-### Markdown
+Session 3 is from February 24th to May 29th. We have these 11 sessions:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. February 25th
+2. March 10th
+3. March 17th
+4. March 24th
+5. April 7th
+6. April 14th
+7. April 21st
+8. April 28th
+9. May 5th
+10. May 12th
+11. May 26th
 
-```markdown
-Syntax highlighted code block
+Some pictures of our progress:
 
-# Header 1
-## Header 2
-### Header 3
+## ESP8266 with Micropython
 
-- Bulleted
-- List
+## Robot base
 
-1. Numbered
-2. List
+## Robot arm
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kreier/asa3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![MeArm v1.0](pic/mearm1.jpg)
